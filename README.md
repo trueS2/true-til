@@ -7,3 +7,5 @@
 
 24.06.11 Spring - 객체 지향 & 느슨한 연결([🌼](https://github.com/trueS2/true-til/blob/main/Jun/2024-06-11.md))
 
+
+24.06.12 Spring - 의존성 주입([🌼](https://github.com/trueS2/true-til/blob/main/Jun/2024-06-12.md))
