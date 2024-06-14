@@ -9,3 +9,5 @@
 
 
 24.06.12 Spring - 의존성 주입([🌼](https://github.com/trueS2/true-til/blob/main/Jun/2024-06-12.md))
+
+24.06.14 CS - 딥다이브, 면접 질문 정리([🌼](https://github.com/trueS2/true-til/blob/main/Jun/2024-06-14.md))
