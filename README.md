@@ -17,3 +17,5 @@
 24.06.18 CS - 컴퓨터 네트워크([🌼](https://github.com/trueS2/true-til/blob/main/Jun/2024-06-18.md))
 
 24.06.19 - 코테([🌼](https://github.com/trueS2/true-til/blob/main/Jun/2024-06-19.md))
+
+24.06.20 - ([🌼](https://github.com/trueS2/true-til/blob/main/Jun/2024-06-20.md))
