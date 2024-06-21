@@ -19,3 +19,5 @@
 24.06.19 - 코테([🌼](https://github.com/trueS2/true-til/blob/main/Jun/2024-06-19.md))
 
 24.06.20 - ([🌼](https://github.com/trueS2/true-til/blob/main/Jun/2024-06-20.md))
+
+24.06.21 - ([🌼](https://github.com/trueS2/true-til/blob/main/Jun/2024-06-21.md))
