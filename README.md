@@ -27,3 +27,5 @@
 24.06.25 - ([🌼](https://github.com/trueS2/true-til/blob/main/Jun/2024-06-24.md))
 
 24.06.26 - ([🌼](https://github.com/trueS2/true-til/blob/main/Jun/2024-06-26.md))
+
+24.06.27 - ([🌼](https://github.com/trueS2/true-til/blob/main/Jun/2024-06-27.md))
