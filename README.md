@@ -32,4 +32,4 @@
 
 ### [💚7월]
 
-24.07.01 - ([🍀](https://github.com/trueS2/true-til/blob/main/Jun/2024-07-01.md))
+24.07.01 - ([🍀](https://github.com/trueS2/true-til/blob/main/Jul/2024-07-01.md))
