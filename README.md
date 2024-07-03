@@ -34,4 +34,6 @@
 
 24.07.01 - ([🍀](https://github.com/trueS2/true-til/blob/main/Jul/2024-07-01.md))
 
-20.07.02 - ([🍀](https://github.com/trueS2/true-til/blob/main/Jul/2024-07-02.md))
+24.07.02 - ([🍀](https://github.com/trueS2/true-til/blob/main/Jul/2024-07-02.md))
+
+24.07.03 - ([🍀](https://github.com/trueS2/true-til/blob/main/Jul/2024-07-03.md))
