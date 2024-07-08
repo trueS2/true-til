@@ -41,3 +41,5 @@
 24.07.04 - ([🍀](https://github.com/trueS2/true-til/blob/main/Jul/2024-07-04.md))
 
 24.07.05 - ([🍀](https://github.com/trueS2/true-til/blob/main/Jul/2024-07-05.md))
+
+24.07.08 - ([🍀](https://github.com/trueS2/true-til/blob/main/Jul/2024-07-8.md))
