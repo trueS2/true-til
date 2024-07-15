@@ -50,6 +50,6 @@
 
 24.07.11 - ([🍀](https://github.com/trueS2/true-til/blob/main/Jul/2024-07-11.md))
 
-24.07.11 - ([🍀](https://github.com/trueS2/true-til/blob/main/Jul/2024-07-12.md))
+24.07.12 - ([🍀](https://github.com/trueS2/true-til/blob/main/Jul/2024-07-12.md))
 
-24.07.11 - ([🍀](https://github.com/trueS2/true-til/blob/main/Jul/2024-07-15.md))
+24.07.15 - ([🍀](https://github.com/trueS2/true-til/blob/main/Jul/2024-07-15.md))
