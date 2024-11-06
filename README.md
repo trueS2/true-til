@@ -65,3 +65,6 @@
 ### [🩵8월]
 
 24.08.12 - ([🩵](https://github.com/trueS2/true-til/blob/main/Aug/2024-08-12.md))
+
+### [11월]
+24.11.06 = ([🤍](https://github.com/trueS2/true-til/blob/main/Nov/2024-11-06.md))
