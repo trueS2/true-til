@@ -61,3 +61,7 @@
 24.07.18 - ([🍀](https://github.com/trueS2/true-til/blob/main/Jul/2024-07-18.md))
 
 24.07.22 - ([🍀](https://github.com/trueS2/true-til/blob/main/Jul/2024-07-22.md))
+
+### [🩵8월]
+
+24.08.12 - ([🩵](https://github.com/trueS2/true-til/blob/main/Aug/2024-08-12.md))
