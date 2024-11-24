@@ -70,3 +70,5 @@
 24.11.06 - ([🤍](https://github.com/trueS2/true-til/blob/main/Nov/2024-11-06.md))
 
 24.11.10 - ([🤍](https://github.com/trueS2/true-til/blob/main/Nov/2024-11-10.md))
+
+24.11.24 - ([🤍](https://github.com/trueS2/true-til/blob/main/Nov/2024-11-24.md))
