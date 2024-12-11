@@ -76,4 +76,4 @@
 [24.11.26](https://github.com/trueS2/true-til/blob/main/Nov/2024-11-26.md)
 
 ### [12월]
-[24.12.11](https://github.com/trueS2/true-til/blob/main/Nov/2024-12-11.md)
+[24.12.11](https://github.com/trueS2/true-til/blob/main/Dec/2024-12-11.md)
